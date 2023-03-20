@@ -23,7 +23,7 @@ export default function Login() {
 
           <div>
             <div>
-                <button type="submit">Login</button>
+                <button type="submit">Logins</button>
             </div>
             <div>
                 <button type="submit">Sign in with Google</button>
